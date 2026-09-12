@@ -23,6 +23,11 @@ Agente conversacional (Google Gemini) que agenda turnos en Google Calendar verif
 **Stack:** n8n · Google Gemini · Google Calendar API · Google Sheets API
 📄 [Ver documentación completa](./03-agenteIA-turnos-stock/documento.pdf)
 
+### 4. Bot de Registro de Horas para Cuidadoras (versión AI Agent)
+Bot conversacional por Telegram que gestiona ingresos, salidas, comentarios y consultas de totales de horas/importe a pagar para cuidadoras, mediante un agente de IA que decide de forma autónoma qué herramienta invocar. Incluye comparación práctica con una versión previa armada con lógica manual (Code + If).
+**Stack:** n8n · Google Gemini · Notion API · Telegram Bot API
+📄 [Ver documentación completa](./04-cuidadoras-ai-agent/documento.pdf)
+
 ---
 
 ## 📬 Contacto
